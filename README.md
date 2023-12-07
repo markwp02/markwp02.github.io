@@ -43,10 +43,10 @@ Main page when you run the application.
 
 ![Main Page](./assets/img/eccommerceMain.png)  
 
-Login screen
+Login screen. For an existing customers. This is intended to be able to view past orders. For new customers, you can click on the sign up button that takes you a similar form to create a new account.
 ![Login Page](./assets/img/eccommerceLogin.png)  
 
-Filtering by category and Search term
+Filtering by category and Search term. Clicking on Videogames category will display only the videogame products and entering in a search term into the search bar will filter the results based on the term entered.
 ![Login Page](./assets/img/eccommerceSearch.png)  
 
 Show full product details to add the product to the cart. Low stock dispays when stock is less than 10.
