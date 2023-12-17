@@ -1,29 +1,6 @@
 # Software Engineer
 Java, Spring boot, Hibernate, React, AWS, Pega
 
-## Education
-### Monash University
-Bachelor Of Science (Computer Science)  
-WAM: 81.176 and GPA: 3.636
-
-### Certifications
-[Pega Certified Senior System Architect](https://academy.pega.com/verify-certification?fname=Mark&lname=Paterson)
-
-
-## Work Experience
-### Mar 2022 - July 2022 Application Developer
-Red Energy
-- Design, develop and unit test end to end software integration application using Groovy, Spring boot and Apache Camel
-- Created routes to handle Google Drive file operations in the Camel application, using the Google Drive Component
-- Automated a billing email process that would save Operations 2 to 3 days of manual labor a month
-
-### Jan 2017 - Feb 2022 Software Engineer 
-Verra Mobility
-- Develop, debug and troubleshoot both Java Spring boot and Pega web applications 
-- Contributed to over 350 knowledge based articles increasing productivity of the team overall
-- Trusted to own the most critical issues and resolve within the business SLA
-- SME for NSW and Canada clients that routinely provided advice and assistance to fellow engineers
-
 ## Projects
 ### eCommerce website
 
